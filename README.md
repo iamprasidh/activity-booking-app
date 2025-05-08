@@ -1,6 +1,6 @@
 # Activity Booking App API
 
-A REST API for a basic activity booking app, built for the MeetX Backend Developer Internship assignment.
+A REST API for a basic activity booking app.
 
 ## Features
 - User registration and login with JWT authentication
